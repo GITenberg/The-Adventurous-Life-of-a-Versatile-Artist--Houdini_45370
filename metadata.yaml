@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: Advertising pamphlet for Harry Houdini.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45370#The-Adventurous-Life-of-a-Versatile-Artist--Houdini
 gutenberg_issued: '2014-04-13'
 gutenberg_type: Text
 identifiers:
