@@ -1,0 +1,26 @@
+_repo: The-Adventurous-Life-of-a-Versatile-Artist--Houdini_45370
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45370-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: Advertising pamphlet for Harry Houdini.
+gutenberg_issued: '2014-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Houdini, Harry, 1874-1926'
+- !lcsh 'Magicians -- United States -- Biography'
+- !lcc 'GV'
+title: 'The Adventurous Life of a Versatile Artist: Houdini'
+url: http://www.gutenberg.org/ebooks/45370
